@@ -9,7 +9,7 @@ ScrollSeer is a plugin for WordPress sites which tracks users' scroll events in 
 * WordPress 2.6 or higher
 * jQuery 1.7 or higher
 * Google Analytics tracking code
-** Both Universal Analytics or Classic Analytics are supported
+	* Both Universal Analytics or Classic Analytics are supported
 
 ## Installation
 
